@@ -93,7 +93,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 66.75
+  m_fontSize: 70.85
   m_fontSizeBase: 67.47
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50.55
+  m_fontSize: 47.65
   m_fontSizeBase: 50.56
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -661,7 +661,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 66.1
+  m_fontSize: 70.15
   m_fontSizeBase: 67.47
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -809,6 +809,7 @@ GameObject:
   - component: {fileID: 7560153487241396815}
   - component: {fileID: 7560153487241396801}
   - component: {fileID: 7560153487241396802}
+  - component: {fileID: 329839284}
   m_Layer: 5
   m_Name: Ok Button
   m_TagString: Untagged
@@ -865,7 +866,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 06d0bb4912b52b6429262925bcdb372a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0ea4d7ec25f1acc4ea216bd526c7be8c, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -943,6 +944,26 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!95 &329839284
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7560153487241396812}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4a9aa45234f29844d89c8456855f34e2, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7560153487361890689
 GameObject:
   m_ObjectHideFlags: 0
@@ -1227,7 +1248,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 66.75
+  m_fontSize: 70.85
   m_fontSizeBase: 67.47
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1551,7 +1572,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 51.35
+  m_fontSize: 54.5
   m_fontSizeBase: 50.56
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1686,7 +1707,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 66.75
+  m_fontSize: 69.05
   m_fontSizeBase: 67.47
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1877,7 +1898,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 175b1f3b53917634ba2e7201b6f27fbd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 20875dfdd7b851644b22598de4c02fef, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2081,7 +2102,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 91.35
+  m_fontSize: 92.75
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2708,7 +2729,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 66.75
+  m_fontSize: 70.85
   m_fontSizeBase: 67.47
   m_fontWeight: 400
   m_enableAutoSizing: 1

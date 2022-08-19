@@ -70,33 +70,33 @@ SpriteAtlas:
     packables:
     - {fileID: 2800000, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
     - {fileID: 2800000, guid: 5e0eadfea8a2c7c428eb9d0222fd169b, type: 3}
-    - {fileID: 2800000, guid: 06d0bb4912b52b6429262925bcdb372a, type: 3}
-    - {fileID: 2800000, guid: 175b1f3b53917634ba2e7201b6f27fbd, type: 3}
+    - {fileID: 2800000, guid: 0ea4d7ec25f1acc4ea216bd526c7be8c, type: 3}
+    - {fileID: 2800000, guid: 20875dfdd7b851644b22598de4c02fef, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: 06d0bb4912b52b6429262925bcdb372a, type: 3}
   - {fileID: 857365230, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
   - {fileID: -1677396317, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
   - {fileID: -1626764940, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
   - {fileID: 241646982, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
   - {fileID: -1431910029, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
   - {fileID: -477919350, guid: 4e44725a028bf3b41a417776aae069ae, type: 3}
-  - {fileID: 21300000, guid: 175b1f3b53917634ba2e7201b6f27fbd, type: 3}
+  - {fileID: 21300000, guid: 0ea4d7ec25f1acc4ea216bd526c7be8c, type: 3}
+  - {fileID: 21300000, guid: 20875dfdd7b851644b22598de4c02fef, type: 3}
   - {fileID: -1915314520, guid: 5e0eadfea8a2c7c428eb9d0222fd169b, type: 3}
   - {fileID: 2001442884, guid: 5e0eadfea8a2c7c428eb9d0222fd169b, type: 3}
   - {fileID: 1030383656, guid: 5e0eadfea8a2c7c428eb9d0222fd169b, type: 3}
   m_PackedSpriteNamesToIndex:
-  - Button
   - Icons_2
   - Icons_3
   - Icons_0
   - Icons_1
   - Icons_4
   - Icons_5
-  - Background
+  - Button_sliced
+  - Background_sliced
   - Toggle Green
   - Toggle Base
   - Toggle Red
